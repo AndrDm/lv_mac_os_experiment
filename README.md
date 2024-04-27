@@ -1,1 +1,1 @@
-# lv_mac_os_experiment
+# Just an experiment with LabVIEW for Mac OS
